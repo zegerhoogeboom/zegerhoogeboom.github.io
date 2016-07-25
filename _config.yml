@@ -3,6 +3,7 @@ title:              "Zeger Hoogeboom's Blog"
 description:        "My blog shows the things I think are worth sharing."
 google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
 google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
+production_url:     https://zegerhoogeboom.github.io
 
 # Author Info
 author_name:        "Zeger Hoogeboom"

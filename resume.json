@@ -1,0 +1,228 @@
+{
+  "basics": {
+    "name": "Zeger Hoogeboom",
+    "label": "Programmer",
+    "picture": "http://www.gravatar.com/avatar/9d469e28787a32b6a3c2099d194798d3.png?s=160",
+    "email": "zeger.hoogeboom@gmail.com",
+    "website": "https://zegerhoogeboom.github.io",
+    "summary": "@Todo",
+    "location": {
+      "countryCode": "The Netherlands",
+      "region": "Utrecht"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "zegerhoogeboom",
+        "url": "https://twitter.com/zegerhoogeboom"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "zegerhoogeboom",
+        "url": "https://linkedin.com/in/zegerhoogeboom"
+      },
+      {
+        "network": "GitHub",
+        "username": "zegerhoogeboom",
+        "url": "https://github.com/zegerhoogeboom"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Segona",
+      "position": "Full Stack Developer",
+      "website": "https://segona.io",
+      "startDate": "2016-04-01",
+      "summary": "Segona.io is the newest venture of Incentro.  I'm responsible for everything tech related. I created the frontend, designed and implemented the API (which is open to customers), created the admin interface to administer customers, made the Adobe InDesign integration and implemented all the core backend functionalities like labeling images and make them searchable.",
+      "highlights": [
+        "Built all components from scratch"
+      ]
+    },
+    {
+      "company": "Blokk.io",
+      "position": "Developer",
+      "website": "https://blokk.io",
+      "startDate": "2015-03-01",
+      "summary": "As developer for Blokk.io i am deeply involved in all aspects of the product like database design, software architecture, billing, release management and making key decisions.",
+      "highlights": []
+    },
+    {
+      "company": "Incentro",
+      "position": "Google Cloud Platform Developer",
+      "website": "https://incentro.com",
+      "startDate": "2015-02-01",
+      "summary": "Creating SaaS products build on top of the Google Cloud Paform",
+      "highlights": []
+    },
+    {
+      "company": "Incentro",
+      "position": "Google Cloud Intern",
+      "website": "https://incentro.com",
+      "startDate": "2014-09-01",
+      "endDate": "2015-02-01",
+      "summary": "Innovating with Google Cloud products as an internship.",
+      "highlights": []
+    },
+    {
+      "company": "Solvari",
+      "position": "Webdeveloper",
+      "website": "https://www.solvari.nl/",
+      "startDate": "2013-09-01",
+      "endDate": "2014-09-01",
+      "summary": "In my second year of study I started working part-time at Grofas. As we were with a small team I got to touch a lot of different aspects of the platform we were developing for Solvari. I set up the continuous integration flow (Git hooks, Jenkins, bash scripts) and helped the (new) technical lead to create and implement a new architecture. This was needed since the current software was made \"on-the-go\" and got too messy to get new features out fast.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "DaysOfCode",
+      "position": "Mentor",
+      "website": "https://daysofcode.com",
+      "startDate": "2016-07-15",
+      "endDate": "2016-07-24",
+      "summary": "I had the pleasure to mentor six students over a period of 10 days. All of them had different backgrounds and different levels of experience. ",
+      "highlights": [
+        "Mentored 6 students over 10 days"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Utrecht University",
+      "area": "Computer Science",
+      "studyType": "Minor",
+      "startDate": "2015-09-01",
+      "endDate": "2016-02-01",
+      "gpa": "3.09",
+      "courses": [
+        "Functional Programming",
+        "Computerarchitecture and networks",
+        "Logic for Computer Science",
+        "Languages and Compilers"
+      ]
+    },
+    {
+      "institution": "University of Applied Sciences Utrecht",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2012-09-01",
+      "gpa": "4,00",
+      "courses": [
+        "Patterns and Frameworks",
+        "Distributed systems",
+        "Server side Programming",
+        "Software Architecture",
+        "Big Data"
+      ]
+    },
+    {
+      "institution": "Google",
+      "area": "Google Cloud Platform Qualified Developer (CP300)",
+      "studyType": "Certification",
+      "startDate": "2015-05-01",
+      "endDate": "2015-05-01",
+      "gpa": "",
+      "courses": [
+        "Google App Engine",
+        "Google Compute Engine",
+        "Google Cloud Storage",
+        "Google Big Query"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML/CSS/Javascript",
+        "AngularJS",
+        "Polymer",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "Firebase",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Master",
+      "keywords": [
+        "Spring (Java)",
+        "HK2 (Java)",
+        "Laravel (PHP)",
+        "Angular (JS)",
+        "Polymer (JS)",
+        "Tensorflow",
+        "Hadoop"
+      ]
+    },
+    {
+      "name": "Hosting/CI",
+      "level": "Master",
+      "keywords": [
+        "Jenkins",
+        "Google App Engine",
+        "Git hooks",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "Javascript",
+        "Haskell",
+        "Python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Basketball",
+        "Snowboarding",
+        "Juggling"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "keywords": [
+        "Tech meetups",
+        "Nice (e.g. Belgium) beers"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Kees van Bemmel",
+      "reference": "Zeger showed great potential from the get go. When he joined my team he quickly stood out as a technical expert with the ability to learn new stuff almost on the fly. Apart from that Zeger turns out to be social, outgoing and fun to work with. I'd put him on any project team without thinking twice."
+    },
+    {
+      "name": "Robin Kuijt",
+      "reference": "I have had the pleasure of studying with Zeger at the Hogeschool Utrecht for a few years. He has a lot of enthusiasm and ambition which he shows in the way he tackles challenges. I would recommend working with Zeger because he knows his game and is a nice person to have around."
+    }
+  ]
+}

@@ -5,7 +5,11 @@ title: About
 
 Hello.
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
+My blog is about sharing knowledge I think is worth sharing. 
+This means I do not intent to write in a regular interval and also means I want as less distraction for you as a reader as possible.
+That's why my blog is so simplistic. I enjoy many different technologies and am always striving to learn as much as possible.
+ 
+If you find my blog or me interesting, please don't hesitate to get in contact with me. Please find my CV and contact information [here](/resume).
 
 **Just write thing that matters..**
 
