@@ -1,1 +1,1 @@
-resume export resume.html --format html --theme elegant
+resume export resume.html --theme=elegant --format html

@@ -2,7 +2,7 @@
     layout: null
 ---
 
-var cacheName = 'zegerhoogeboom.github.io-cache-v1';
+var cacheName = "zegerhoogeboom.github.io-{{site.time | date: '%Y%m%d%H%M%S'}}";
 var filesToCache = [
     {% for page in site.html_pages %}
         '{{ page.url }}',
@@ -10,11 +10,9 @@ var filesToCache = [
     {% for page in site.posts %}
         '{{ page.url }}',
     {% endfor %}
-    {% for asset in site.assets %}
-        '{{ asset.url }}',
+    {% for file in site.static_files %}
+        '{{ file.path }}',
     {% endfor %}
-
-// Blog posts
     '/resume'
 ];
 

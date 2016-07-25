@@ -8,7 +8,7 @@ production_url:     https://zegerhoogeboom.github.io
 # Author Info
 author_name:        "Zeger Hoogeboom"
 author_email:       zeger.hoogeboom@gmail.com
-author_gravatar:    9d469e28787a32b6a3c2099d194798d3 # Gravatar md5 hash
+profile_image:      /assets/profile.jpg # Gravatar md5 hash
 twitter_username:   zegerhoogeboom
 
 # Site Settings
@@ -29,7 +29,7 @@ sass:
 
 # Other Params
 include:            [ "robots.txt" ]
-exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "update_resume.sh" ]
 gems:
   - jekyll-sitemap
 

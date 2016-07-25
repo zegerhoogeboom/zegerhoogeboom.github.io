@@ -2,7 +2,7 @@
   "basics": {
     "name": "Zeger Hoogeboom",
     "label": "Programmer",
-    "picture": "//gravatar.com/avatar/9d469e28787a32b6a3c2099d194798d3.png?s=160",
+    "picture": "assets/profile.jpg",
     "email": "zeger.hoogeboom@gmail.com",
     "website": "https://zegerhoogeboom.github.io",
     "summary": "@Todo",
@@ -217,12 +217,12 @@
   ],
   "references": [
     {
-      "name": "Kees van Bemmel",
+      "name": "Kees van Bemmel, Managing Director, Incentro",
       "reference": "Zeger showed great potential from the get go. When he joined my team he quickly stood out as a technical expert with the ability to learn new stuff almost on the fly. Apart from that Zeger turns out to be social, outgoing and fun to work with. I'd put him on any project team without thinking twice."
     },
     {
-      "name": "Robin Kuijt",
-      "reference": "I have had the pleasure of studying with Zeger at the Hogeschool Utrecht for a few years. He has a lot of enthusiasm and ambition which he shows in the way he tackles challenges. I would recommend working with Zeger because he knows his game and is a nice person to have around."
+      "name": "Robin Kuijt, Co-student",
+      "reference": "I have had the pleasure of studying with Zeger at the University of Applied Sciences Utrecht for a few years. He has a lot of enthusiasm and ambition which he shows in the way he tackles challenges. I would recommend working with Zeger because he knows his game and is a nice person to have around."
     }
   ]
 }
