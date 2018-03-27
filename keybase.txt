@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/zegerhoogeboom
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://zegerhoogeboom.github.io
+  * I am zegerhoogeboom (https://keybase.io/zegerhoogeboom) on keybase.
+  * I have a public key ASCQoLr5nY-cd7SOB-tdS-k6ML7TfrzlwdjLLh_yZUR13go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012090a0baf99d8f9c77b48e07eb5d4be93a30bed37ebce5c1d8cb2e1ff2654475de0a",
+      "host": "keybase.io",
+      "kid": "012090a0baf99d8f9c77b48e07eb5d4be93a30bed37ebce5c1d8cb2e1ff2654475de0a",
+      "uid": "ebc975f84cf0402115ad807341c65619",
+      "username": "zegerhoogeboom"
+    },
+    "merkle_root": {
+      "ctime": 1522150508,
+      "hash": "2edee805a80f79f5df452356aeaa6c6edad6d83602e1dab5956c68d53a494e0461009f61d7687300660bcf94408d000d0e7ec74c0e657c016c6b5b5bbb6eadd8",
+      "hash_meta": "f1a513b340588735617dc3f09f7046242fce56168a2f66f490b43905087501ce",
+      "seqno": 2294476
+    },
+    "service": {
+      "hostname": "zegerhoogeboom.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1522150520,
+  "expire_in": 504576000,
+  "prev": "c0c3cf7238c688023d0e440b642e5eb02bb475ef4cf0d9d721d47846cc1c2011",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgkKC6+Z2PnHe0jgfrXUvpOjC+03685cHYyy4f8mVEdd4Kp3BheWxvYWTFA1d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTBhMGJhZjk5ZDhmOWM3N2I0OGUwN2ViNWQ0YmU5M2EzMGJlZDM3ZWJjZTVjMWQ4Y2IyZTFmZjI2NTQ0NzVkZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTBhMGJhZjk5ZDhmOWM3N2I0OGUwN2ViNWQ0YmU5M2EzMGJlZDM3ZWJjZTVjMWQ4Y2IyZTFmZjI2NTQ0NzVkZTBhIiwidWlkIjoiZWJjOTc1Zjg0Y2YwNDAyMTE1YWQ4MDczNDFjNjU2MTkiLCJ1c2VybmFtZSI6InplZ2VyaG9vZ2Vib29tIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIyMTUwNTA4LCJoYXNoIjoiMmVkZWU4MDVhODBmNzlmNWRmNDUyMzU2YWVhYTZjNmVkYWQ2ZDgzNjAyZTFkYWI1OTU2YzY4ZDUzYTQ5NGUwNDYxMDA5ZjYxZDc2ODczMDA2NjBiY2Y5NDQwOGQwMDBkMGU3ZWM3NGMwZTY1N2MwMTZjNmI1YjViYmI2ZWFkZDgiLCJoYXNoX21ldGEiOiJmMWE1MTNiMzQwNTg4NzM1NjE3ZGMzZjA5ZjcwNDYyNDJmY2U1NjE2OGEyZjY2ZjQ5MGI0MzkwNTA4NzUwMWNlIiwic2Vxbm8iOjIyOTQ0NzZ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiemVnZXJob29nZWJvb20uZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDUifSwiY3RpbWUiOjE1MjIxNTA1MjAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYzBjM2NmNzIzOGM2ODgwMjNkMGU0NDBiNjQyZTVlYjAyYmI0NzVlZjRjZjBkOWQ3MjFkNDc4NDZjYzFjMjAxMSIsInNlcW5vIjoxMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEB/yBmWyQrXMDk1cjjdMkMhr2ZRAjGe2BdyWBxPvtAlUevjxhLyVgX6aFKWvdnPkkGijm00/WrZBnJn/zeSNIABqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgeY8nuuWxQnxipXeWVAm6r1SxxaVzzPRxsOj0mx9gGcqjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zegerhoogeboom
+
+==================================================================
